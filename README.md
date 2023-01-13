@@ -1,1 +1,3 @@
-# Proyecto-Jarlin
+# Time Management
+
+## Program for people time management, includes add training option, time per activity...
